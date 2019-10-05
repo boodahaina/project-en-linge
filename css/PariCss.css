@@ -1,0 +1,39 @@
+#partieGauche {
+    border-right: 1px solid darkgrey;
+}
+
+#partieGauche a {
+    padding: 2% 2%;
+    padding-left: 15%;
+    color: darkgray;
+    transition-property: font-size;
+    transition-duration: 0.2s;
+}
+
+#partieGauche a:hover {
+    color: black;
+    opacity: 0.8;
+    text-decoration: none;
+}
+
+#partieGauche a:focus {
+    color: black;
+    opacity: 1;
+    font-size: 20px;
+}
+
+#logoEquipe {
+    width: 30px;
+    height: 30px;
+    margin-left: 7px;
+    margin-right: 7px;
+}
+
+#matchField {
+    border-right: 1px solid darkgrey;
+}
+
+#global {
+    padding: 10px 10px;
+    border-bottom: 1px solid darkgrey;
+}
